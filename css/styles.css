@@ -1,0 +1,66 @@
+
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Meow Script', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topcontainer {
+  background-color: #D3DEDC;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #D3DEDC;
+  padding-top: 30px;
+}
+
+.bottom-container {
+  background-color: #D3DEDC;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  width: 33%;
+  height: auto;
+  margin: auto;
+}
+
+.positive {
+  border-radius: 50%;
+}
+.puzzle {
+  width: 17%;
+  height: auto;
+  margin: auto;
+  border-radius: 50%;
+}
